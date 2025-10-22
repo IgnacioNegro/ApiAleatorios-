@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "Ejercicio_Api_2210.Controllers.AleatoriosController",
+    "Method": "GetColor",
+    "RelativePath": "api/Aleatorios/color",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ejercicio_Api_2210.Controllers.AleatoriosController",
+    "Method": "GetNumero",
+    "RelativePath": "api/Aleatorios/numero",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ejercicio_Api_2210.Controllers.AleatoriosController",
+    "Method": "GetPalabra",
+    "RelativePath": "api/Aleatorios/palabra",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

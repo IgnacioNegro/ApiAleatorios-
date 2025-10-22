@@ -1,0 +1,46 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Ejercicio Api 2210",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Aleatorios/numero": {
+      "get": {
+        "tags": [
+          "Aleatorios"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Aleatorios/palabra": {
+      "get": {
+        "tags": [
+          "Aleatorios"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Aleatorios/color": {
+      "get": {
+        "tags": [
+          "Aleatorios"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

@@ -1,0 +1,16 @@
+# IDE/Build
+.vs/
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+
+# Publicaciones
+*.pubxml
+*.pubxml.user
+*.publish.xml
+
+# SO
+Thumbs.db
+.DS_Store

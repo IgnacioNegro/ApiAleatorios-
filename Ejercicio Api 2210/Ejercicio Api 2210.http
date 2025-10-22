@@ -1,0 +1,6 @@
+@Ejercicio_Api_2210_HostAddress = http://localhost:5120
+
+GET {{Ejercicio_Api_2210_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

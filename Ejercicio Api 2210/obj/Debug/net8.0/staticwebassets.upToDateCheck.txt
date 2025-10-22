@@ -1,0 +1,2 @@
+wwwroot\dic\es_ES.aff
+wwwroot\dic\es_ES.dic

@@ -1,0 +1,37 @@
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\Ejercicio Api 2210.csproj.AssemblyReference.cache
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\Ejercicio Api 2210.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\Ejercicio Api 2210.AssemblyInfoInputs.cache
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\Ejercicio Api 2210.AssemblyInfo.cs
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\Ejercicio Api 2210.csproj.CoreCompileInputs.cache
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\Ejercicio Api 2210.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\Ejercicio Api 2210.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\appsettings.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\Ejercicio Api 2210.staticwebassets.endpoints.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\Ejercicio Api 2210.exe
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\Ejercicio Api 2210.deps.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\Ejercicio Api 2210.runtimeconfig.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\Ejercicio Api 2210.dll
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\Ejercicio Api 2210.pdb
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\scopedcss\bundle\Ejercicio Api 2210.styles.css
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\Ejercici.F1824E33.Up2Date
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\Ejercicio Api 2210.dll
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\refint\Ejercicio Api 2210.dll
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\Ejercicio Api 2210.pdb
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\Ejercicio Api 2210.genruntimeconfig.cache
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\obj\Debug\net8.0\ref\Ejercicio Api 2210.dll
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\Ejercicio Api 2210.staticwebassets.runtime.json
+C:\Users\negro\source\repos\Ejercicio Api 2210\Ejercicio Api 2210\bin\Debug\net8.0\WeCantSpell.Hunspell.dll
