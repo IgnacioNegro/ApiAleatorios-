@@ -21,13 +21,15 @@ namespace Ejercicio_Api_2210.Controllers
         public IActionResult GetPalabra([FromServices] IWordProvider words)
           => Ok(words.GetRandomWord());
 
+        //link https://stackoverflow.com/questions/5796224/c-sharp-sharp-reading-random-line-from-txt-file?utm_source=chatgpt.com
+
         [HttpGet("color")]
         public IActionResult GetColor()
         {
             int rgb = Random.Shared.Next(0, 0x1000000);
             string hex = $"#{rgb:X6}"; //formato hexadecimall
             return Ok(hex);
-
-        } 
+            //fuente https://stackoverflow.com/questions/730625/how-do-i-create-a-random-hex-string-that-represents-a-color?utm_source=chatgpt.com
+        }
     }
 }
